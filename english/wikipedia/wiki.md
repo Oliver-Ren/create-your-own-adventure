@@ -36,3 +36,5 @@ Then after you explore the website, you learn a few neat tricks.
 [Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
 
 [Learn Calculus](https://en.wikipedia.org/wiki/Calculus)
+
+Everyone could be the editor of Wikipedia.
